@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Ruj",
+    "CategoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Far",
+    "CategoryId": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Süpürge",
+    "CategoryId": 2
+  },
+  {
+    "id": 5,
+    "name": "Saaap",
+    "CategoryId": 2
+  },
+  {
+    "id": 4,
+    "name": "Bilgisayar",
+    "CategoryId": 3
+  }
+]
