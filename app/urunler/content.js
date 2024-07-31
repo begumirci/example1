@@ -29,7 +29,7 @@ export default function Products({ products, productsCategory }) {
       <form action={Navigation}>
         <input placeholder='ürün ara' name='productName' />
 
-        <button>Gönder</button>
+        <button>Gönder,</button>
       </form>
 
       <div>

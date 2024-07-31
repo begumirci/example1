@@ -4,9 +4,7 @@ import { notFound } from 'next/navigation';
 export default async function PostDetail({ params }) {
   const { id } = params;
 
-  const request = await fetch(
-    `https://jsonplaceholder.typicode.com/posts/${id}`
-  );
+  const request = await fetch(`https://dummyjson.com/products/${id}`);
 
   if (request.ok) {
     const response = await request.json();
